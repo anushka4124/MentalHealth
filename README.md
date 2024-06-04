@@ -1,2 +1,2 @@
-# MentalHealth
-<h1>Mental Health Support Web App<h1>
+# MindMend
+# The Mental Health Support Web Application
